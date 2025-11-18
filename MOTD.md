@@ -1,6 +1,6 @@
 ﻿![ ](https://i.imgur.com/U548ZeY.jpeg)
 # Welcome to Unicorn Duels server!
-# <a id="Join our Discord!">https://discord.gg/mordhau](https://discord.gg/stSjGxdQb9</>
+# <a id="Join our Discord!">https://discord.gg/stSjGxdQb9</>
 **By joining the server, you agree to follow the rules.**  **Rules can change at anypoint**
 ## Rules:
 1. Do not ffa, revenge ffa, or mass ffa.
