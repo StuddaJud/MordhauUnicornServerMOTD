@@ -1,5 +1,6 @@
 ﻿![ ](https://i.imgur.com/U548ZeY.jpeg)
 # Welcome to Unicorn Duels server!
+# Staff applications are open right now! Apply on our discord!
 # <a id="Join our Discord!">https://discord.gg/stSjGxdQb9</>
 **By joining the server, you agree to follow the rules.**  **Rules can change at anypoint**
 ## Rules:
