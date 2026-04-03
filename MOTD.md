@@ -1,10 +1,11 @@
-﻿![ ](https://i.imgur.com/U548ZeY.jpeg)
+﻿![ ](https://github.com/StuddaJud/MordhauUnicornServerMOTD/blob/main/map.png)
 # Welcome to Unicorn Duels server!
 # Staff applications are open right now! Apply on our discord!
 # <a id="Join our Discord!">https://discord.gg/stSjGxdQb9</>
+## NEW RULE: FROM NOW ON FRIENDLY FFA ALLOWED ONLY AT TP R
 **By joining the server, you agree to follow the rules.**  **Rules can change at anypoint**
 ## Rules:
-1. Do not ffa, revenge ffa, or mass ffa.
+1. Do not ffa, revenge ffa, or mass ffa. 
 2. Do not interrupt duels or the Arena or  force people to duel by kicking, etc.
 3. If you want to FFA as a group/friendly FFA, then TP to a private TP spot. Friendly FFA in the center will be met with warnings/bans.
 4. Having 20 or more warnings result in a permanent ban
