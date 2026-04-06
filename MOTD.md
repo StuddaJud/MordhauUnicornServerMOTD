@@ -1,4 +1,4 @@
-﻿![ ](https://github.com/StuddaJud/MordhauUnicornServerMOTD/blob/main/map.png)
+﻿![ ](https://i.ibb.co/VYfxCwMw/rsz-1banner-small.jpg)
 # Welcome to Unicorn Duels server!
 # Staff applications are open right now! Apply on our discord!
 # <a id="Join our Discord!">https://discord.gg/stSjGxdQb9</>
