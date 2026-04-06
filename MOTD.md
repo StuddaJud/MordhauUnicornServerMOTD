@@ -1,4 +1,5 @@
-﻿![ ](https://i.ibb.co/VYfxCwMw/rsz-1banner-small.jpg)
+﻿[![ ](https://i.ibb.co/VYfxCwMw/rsz-1banner-small.jpg)]: #
+![ ](https://i.ibb.co/YH5pydn/sides.png)
 # Welcome to Unicorn Duels server!
 # <a id="Join our Discord!">https://discord.gg/stSjGxdQb9</>
 **By joining the server, you agree to follow the rules.**  **Rules can change at anypoint**
