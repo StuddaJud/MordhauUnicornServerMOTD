@@ -2,7 +2,6 @@
 # Welcome to Unicorn Duels server!
 # Staff applications are open right now! Apply on our discord!
 # <a id="Join our Discord!">https://discord.gg/stSjGxdQb9</>
-## NEW RULE: FROM NOW ON FRIENDLY FFA ALLOWED ONLY AT TP R
 **By joining the server, you agree to follow the rules.**  **Rules can change at anypoint**
 ## Rules:
 1. Do not ffa, revenge ffa, or mass ffa. 
